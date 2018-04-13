@@ -1,0 +1,11 @@
+.cat {
+    text-align: center;
+}
+.kittenName {
+    text-align: center;
+    display: block;
+}
+.kittenVoice {
+    text-align: center;
+    display: block;
+}
